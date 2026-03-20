@@ -6,7 +6,11 @@ W projekcie wykorzystano modele oparte na bibliotece OpenCV oraz sieci neuronowe
 
 Wyniki analizy zapisywane są do plików CSV oraz prezentowane na obrazach wynikowych z naniesionymi etykietami.
 
-Repozytorium zawiera kod źródłowy, dane testowe oraz przykładowe wyniki działania modelu.
+Repozytorium zawiera kod źródłowy, przykładowe dane oraz wyniki działania modelu.
+
+## Wykorzystane modele
+
+W projekcie wykorzystano gotowe modele dostępne online, które odpowiadają za detekcję twarzy oraz klasyfikację wieku i płci. Modele te nie były trenowane samodzielnie.
 
 ## Jak uruchomić projekt
 
