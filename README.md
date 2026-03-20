@@ -1,4 +1,4 @@
-# Face-detection
+# Analiza wieku i płci na podstawie zdjęć
 
 Projekt dotyczy analizy obrazów z wykorzystaniem metod widzenia komputerowego. Celem było automatyczne wykrywanie twarzy oraz klasyfikacja wieku i płci osób znajdujących się na zdjęciach.
 
