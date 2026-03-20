@@ -10,7 +10,7 @@ Repozytorium zawiera kod źródłowy, przykładowe dane oraz wyniki działania m
 
 ## Wykorzystane modele
 
-W projekcie wykorzystano gotowe modele dostępne online, które odpowiadają za detekcję twarzy oraz klasyfikację wieku i płci. Modele te nie były trenowane samodzielnie.
+W projekcie wykorzystano gotowe modele dostępne online, które odpowiadają za detekcję twarzy oraz klasyfikację wieku i płci.
 
 ## Jak uruchomić projekt
 
